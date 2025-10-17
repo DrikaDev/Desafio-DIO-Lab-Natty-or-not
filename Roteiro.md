@@ -3,7 +3,9 @@
 Olá, meu nome é Adriana Gutierrez, e este é o "Me reinventando aos 40+", um espaço para mulheres que decidiram mudar de rota, abraçar novos desafios e 
 mergulhar no mundo da tecnologia, depois dos 40.  
 Aqui, a gente fala sobre coragem, aprendizado e propósito. Porque nunca é tarde para se reinventar.  
+
 Por que esse tema é importante?  
+
 Nos últimos anos, muitas mulheres têm redescoberto seus talentos e migrado para a área de tecnologia.  
 Algumas vêm do administrativo, da educação, da moda, da saúde… e encontram na tecnologia não apenas um novo emprego, mas um novo sentido de vida profissional.  
 Eu mesma decidi migrar para o mundo tech depois dos 40.  
