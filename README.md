@@ -34,9 +34,9 @@ O vídeo também serviu como prova de conceito para o uso de IA generativa aplic
 
 <img width="1432" height="534" alt="image" src="https://github.com/user-attachments/assets/bdaf20af-bdb8-4c0f-9c7a-6d6efc460d56" />
 
-<img width="729" height="736" alt="image" src="https://github.com/user-attachments/assets/f30143f3-16ba-431f-a096-887deefcbffb" />
+https://github.com/user-attachments/assets/2ce339c0-31f1-4405-b786-7df033c37a81
 
-## 👉🏻 Clique aqui para ver o resultado do [vídeo](https://youtube.com/shorts/-wfnsH1cGeo?feature=share) 😁
+## 👉🏻 Clique aqui para ver o resultado completo do [vídeo](https://youtube.com/shorts/-wfnsH1cGeo?feature=share) 😁
 
 ## 💭 Reflexão (Opcional)
 O maior desafio, a princípio, foi definir uma ideia final para o projeto.  
