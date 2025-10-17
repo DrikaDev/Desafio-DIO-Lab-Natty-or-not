@@ -32,6 +32,10 @@ O conteúdo reforça a importância da representatividade de mulheres 40+ na tec
 
 O vídeo também serviu como prova de conceito para o uso de IA generativa aplicada à comunicação, mostrando que a tecnologia pode ser aliada na criação de projetos com propósito.
 
+<img width="1432" height="534" alt="image" src="https://github.com/user-attachments/assets/bdaf20af-bdb8-4c0f-9c7a-6d6efc460d56" />
+
+<img width="729" height="736" alt="image" src="https://github.com/user-attachments/assets/f30143f3-16ba-431f-a096-887deefcbffb" />
+
 ## 💭 Reflexão (Opcional)
 O maior desafio, a princípio, foi definir uma ideia final para o projeto.  
 A inteligência artificial ainda é um tema muito novo pra mim, e explorar essas ferramentas foi bastante desafiador no começo.  
