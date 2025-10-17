@@ -40,6 +40,9 @@ https://github.com/user-attachments/assets/2ce339c0-31f1-4405-b786-7df033c37a81
 
 ## 💭 Reflexão (Opcional)
 O maior desafio, a princípio, foi definir uma ideia final para o projeto.  
+Então pensei: "Qual é a minha "dor" nesse momento? Que mensagem eu gostaria de transmitir?"  
+Foi assim que surgiu a ideia de escrever sobre mulheres 40+ em transição de carreira para a área tech.  
+
 A inteligência artificial ainda é um tema muito novo pra mim, e explorar essas ferramentas foi bastante desafiador no começo.  
 Felizmente, elas se mostraram intuitivas — e, no fim, foi fácil combinar as ferramentas para criar meu "avatar falante" 😁.
 
