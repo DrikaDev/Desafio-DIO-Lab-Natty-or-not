@@ -12,7 +12,7 @@ O conteúdo traz um trecho introdutório do meu podcast, que fala sobre coragem,
 Ferramentas utilizadas: ElevenLabs (geração de voz) e D-ID (animação de imagem).
 
 ## 🧐 Processo de Criação
-O ponto de partida foi o desejo de compartilhar a jornada de mulheres que estão em transição de carreira para a tecnologia depois dos 40 anos — um tema que representa também a minha própria trajetória.  
+O ponto de partida foi o desejo de compartilhar um pouco da minha jornada com mulheres que estão em transição de carreira para a tecnologia depois dos 40 anos — um tema que representa também a minha própria trajetória.  
 
 Escrevi o roteiro com uma linguagem natural e acolhedora, como se estivesse conversando com uma amiga que pensa em mudar de área.  
 Utilizei o ChatGPT para pequenos ajustes no texto e, em seguida, o ElevenLabs para gerar a narração em voz IA, buscando uma entonação suave e inspiradora que combinasse com o tom do conteúdo.  
