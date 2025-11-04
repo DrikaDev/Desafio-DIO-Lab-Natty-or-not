@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/2ce339c0-31f1-4405-b786-7df033c37a81
 
 ## 👉🏻 Clique aqui para ver o resultado completo do [vídeo](https://youtube.com/shorts/-wfnsH1cGeo?feature=share) 😁
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O maior desafio, a princípio, foi definir uma ideia final para o projeto.  
 Então pensei: "Qual é a minha "dor" nesse momento? Que mensagem eu gostaria de transmitir?"  
 Foi assim que surgiu a ideia de escrever sobre mulheres 40+ em transição de carreira para a área tech.  
