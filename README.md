@@ -1,4 +1,4 @@
-# Desafio-DIO-Lab-Natty-or-not
+# Desafio DIO Lab "Natty or not"
 
 ## 🎧 Projeto: Me Reinventando aos 40+
 
